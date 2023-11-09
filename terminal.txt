@@ -1,0 +1,3 @@
+npm create vite@latest
+cd Reactproject
+ npm install lucide-react
